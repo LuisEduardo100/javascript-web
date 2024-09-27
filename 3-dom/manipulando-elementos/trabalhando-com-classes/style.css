@@ -1,0 +1,17 @@
+.box {
+    width: 150px;
+    height: 150px;
+}
+.azul {
+    background-color: blue;
+}
+.verde {
+    background-color: green;
+}
+.button {
+    background-color: aqua;
+}
+
+.red {
+    background-color: red;
+}
