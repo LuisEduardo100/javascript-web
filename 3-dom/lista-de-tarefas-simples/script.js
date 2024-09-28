@@ -2,6 +2,7 @@ const input = document.getElementById('input');
 const section = document.getElementById('list');
 
 input.addEventListener('keyup', function (e) {
+    console.log(e)
     const ul = document.createElement('ul')
     console.log(e.key)
 
