@@ -1,6 +1,6 @@
 
 let char = createKnight("Luís Knight")
-let monster = createLittleMonster()
+let monster = createBigMonster()
 
 stage.start(
     char,
